@@ -1,4 +1,4 @@
-package unisys.visionapi;
+package beercatalog.visionapi;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

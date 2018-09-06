@@ -1,4 +1,4 @@
-package unisys.visionapi;
+package beercatalog.visionapi;
 
 // my packages
 import android.os.AsyncTask;

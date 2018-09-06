@@ -1,4 +1,4 @@
-package unisys.visionapi;
+package beercatalog.visionapi;
 
 import org.junit.Test;
 
